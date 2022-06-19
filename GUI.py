@@ -16,7 +16,7 @@ txt.grid(column=1, row=0)  # однострочный ввод
 
 btn = Button(
     wnd,
-    text='Не нажимать!',
+    text='Жми сюды!',
     bg='black',
     fg='red',
     command=clicked
